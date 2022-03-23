@@ -1,2 +1,1 @@
-# sgongora27.github.io
-Personal website
+[sgongora27.github.io](https://sgongora27.github.io/)
