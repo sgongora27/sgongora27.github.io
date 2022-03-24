@@ -133,7 +133,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #74412d;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -2401,7 +2401,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #260368;
+				background: #856540;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
